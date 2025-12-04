@@ -15,6 +15,5 @@ if (!isset($_POST['confirm'])) {
 </head>
 <body>
 <h1>Your Pilates signup is complete.</h1>
-<p>In a later version this will insert into the database.</p>
 </body>
 </html>
