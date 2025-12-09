@@ -12,4 +12,4 @@ if (isset($_POST['equipment'])) {
 }
 
 header("Location: classType.html");
-exit;
+?>
