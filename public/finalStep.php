@@ -11,6 +11,7 @@ session_start();
 <body>
 
 <h1>Confirm Your Pilates Signup</h1>
+<h2>Personal Details</h2>
 
 <p>First Name: <?php echo $_SESSION['firstname']; ?></p>
 <p>Surname: <?php echo $_SESSION['surname']; ?></p>
